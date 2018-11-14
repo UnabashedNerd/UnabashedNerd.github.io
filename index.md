@@ -1,37 +1,35 @@
-## Kent's site
+# Kent Morris, P.E.
 
-You can use the [editor on GitHub](https://github.com/UnabashedNerd/UnabashedNerd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+current location: Houston, Texas
+desired location: Minneapolis–Saint Paul, Minnesota
+e-mail: kent@morris.engineer
+phone:  281.506.2888
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UnabashedNerd/UnabashedNerd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**BSc, Mechanical Engineering**
+:   Texas A&M University - College Station
 
-### Support or Contact
+## Licensure
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Professional Engineer**
+:   State of Texas #124862
+
+
+## Experience
+
+### Flow-Tek / Bray International Inc
+Jul 2016 - Present
+
+Houston, Texas
+
+Valve Design Engineer
+
+_Responsible for ball valve design, certification and continuing design changes_
+-	Adapted seven existing valve product lines for fugitive emissions certification
+-	Designed a test certification plan to API 641, API 607 and ISO 15848-1 standards
+-	Designed a single piece double-block-and-bleed accessory for existing three-piece valve product lines
+-	Prepared and presented a multi-media presentation about fugitive emissions design and certification for the _2018 Fugitive Emissions Summit_
