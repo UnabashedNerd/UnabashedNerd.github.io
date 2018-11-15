@@ -1,5 +1,3 @@
-# Kent Morris, P.E.
-
 ```
 current location: Houston, Texas
 desired location: Minneapolis–Saint Paul, Minnesota
